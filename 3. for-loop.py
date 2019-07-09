@@ -13,3 +13,6 @@ for f in sentence[::2]:
 for f in sentence[::-3]:
     print("Word in the list :", f)
     print("Length :", len(f))
+
+for i in range(0, 100, 10):
+    print(i);
