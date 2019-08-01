@@ -5,6 +5,10 @@ class Animal:                                                               # Pa
     def eat(self):
         print("Eating...")
 
+class Bird:
+    def fly(self):
+        print("Flying...")
+
 
 class Dog(Animal):                                                          # Child class
     def __init__(self):
@@ -24,6 +28,15 @@ class Cat(Animal):                                                          # Ch
         print("Meowing...")
 
 
+class Parrot(Animal, Bird):                                                  # Child class with Multiple Inheritance
+    def __init__(self):
+        print("Bird ", end="")
+        super(Parrot, self).__init__()
+
+    def screech(self):
+        print("Screeching...")
+
+
 c1 = Cat()
 
 c1.eat()                                                                    # Using parent class method from a child class instance
@@ -33,3 +46,8 @@ d1 = Dog()
 
 d1.eat()
 d1.bark()
+
+p1 = Parrot()
+
+p1.eat()
+p1.screech()
