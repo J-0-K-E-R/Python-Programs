@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b49c361-f469-4937-9311-4376ac32088d" name="Default Changelist" comment="" />
+    <list default="true" id="2b49c361-f469-4937-9311-4376ac32088d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/14. Word Frequency Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Word Frequency Counter.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +12,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_Practice_Programs$7__Dictionary.coverage" NAME="7. Dictionary Coverage Results" MODIFIED="1563874733714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Practice_Programs$14__Word_Frequency_Counter.coverage" NAME="14. Word Frequency Counter Coverage Results" MODIFIED="1564740397766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice_Programs$14__Word_Frequency_Counter.coverage" NAME="14. Word Frequency Counter Coverage Results" MODIFIED="1564740677190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice_Programs$11__Method_Overloading.coverage" NAME="11. Method Overloading Coverage Results" MODIFIED="1564642509535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice_Programs$2__if_else_elif.coverage" NAME="2. if-else-elif Coverage Results" MODIFIED="1562655210591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice_Programs$10__Exceptions.coverage" NAME="10. Exceptions Coverage Results" MODIFIED="1564398277606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -32,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/14. Word Frequency Counter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="612">
+              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -262,12 +264,12 @@
       <workItem from="1564461649376" duration="1286000" />
       <workItem from="1564553853697" duration="593000" />
       <workItem from="1564636366279" duration="9656000" />
-      <workItem from="1564736290547" duration="3981000" />
+      <workItem from="1564736290547" duration="4238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58466000" />
+    <option name="totallyTimeSpent" value="58723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14. Word Frequency Counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="612">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
